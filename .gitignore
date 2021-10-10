@@ -1,0 +1,27 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WebSearchEngine/.vs/WebSearchEngine/v16
+/WebSearchEngine/WebCrawler/obj
+/WebSearchEngine/WebCrawlerData/bin/Debug
+/WebSearchEngine/WebCrawlerData/obj
+/WebSearchEngine/WebCrawlerService/bin/Debug/net5.0
+/WebSearchEngine/WebCrawlerService/obj
+/WebSearchEngine/WebCrawlerWorker/bin/Debug/netstandard2.1
+/WebSearchEngine/WebCrawlerWorker/obj
+/WebSearchEngine/WebSearchEngineAPI/bin/Debug/net5.0
+/WebSearchEngine/WebSearchEngineAPI/obj
+/WebSearchEngine/.vs/WebSearchEngine/DesignTimeBuild
+/WebSearchEngine/EFCorePersistence/bin/Debug/net5.0
+/WebSearchEngine/EFCorePersistence/obj
+/WebSearchEngine/WebCrawlerService/searchengine_dev.db
+/WebSearchEngine/PhoneticLib/bin/Debug/netcoreapp3.1
+/WebSearchEngine/PhoneticLib/obj
+/WebSearchEngine/PhoneticLib/bin/Debug/net5.0/ref
+/WebSearchEngine/PhoneticLib/bin/Debug/net5.0
+/WebSearchEngine/LuceneLib/obj
+/WebSearchEngine/LuceneLib/bin/Debug/netcoreapp3.1
+/WebSearchEngine/LuceneLib/bin/Debug/net5.0
+/WebSearchEngine/WebSearchEngineAPI/AppData/index
+/WebSearchEngine/WebSearchEngineAPI/AppData/websearchengine.db
